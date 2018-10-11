@@ -1,0 +1,18 @@
+#bronze {
+  color: #b76a2c;
+
+}
+#silver {
+  color: silver;
+}
+#gold {
+  color: gold;
+}
+#platinum{
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+ .container{
+   background-color: #bae8f2;
+ }
